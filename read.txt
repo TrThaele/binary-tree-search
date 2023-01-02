@@ -1,0 +1,12 @@
+/***
+ * Tree.js
+ *
+ * This file defines the Tree class. The Tree class serves as a wrapper for a
+ * root node, wrapping methods such as addValue or search, but also provides
+ * higher-level functionality, such as setting the coordinates of the entire
+ * tree, or drawing the entire tree.
+ *
+ * The tree class is also responsible for animating itself, and relies only
+ * on an instance of the Controls class to provide the interval between frames
+ * of animation
+***/
